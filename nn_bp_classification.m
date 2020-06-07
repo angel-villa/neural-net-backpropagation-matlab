@@ -60,6 +60,9 @@ for L = [3 5 8]
                 % column i -> layer i
                 % each row in column corresponds to the index of a unit in that layer
                 % 0 if no unit
+                % 
+                % maybe change this later to prevent size issues (problems
+                % when D < Nh or K < Nh
                 layers = zeros(max([D+1,Nh,K]),L);
                 layers(1:D+1,1) = (1:D+1)';
                 for l=2:L-1
