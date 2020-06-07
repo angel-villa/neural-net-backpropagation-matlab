@@ -1,0 +1,44 @@
+Layers: 3, Hidden units: 3, Iterations: 1 
+Validation error: 0.332, 0.282, 0.339, 0.296, 0.263, 0.256, 0.401, 0.381, 0.302, 0.251, 
+Layers: 3, Hidden units: 3, Iterations: 15 
+Validation error: 0.238, 0.262, 0.252, 0.284, 0.180, 0.167, 0.306, 0.281, 0.227, 0.225, 
+Layers: 3, Hidden units: 3, Iterations: 25 
+Validation error: 0.202, 0.278, 0.220, 0.167, 0.185, 0.254, 0.184, 0.211, 0.255, 0.189, 
+Layers: 3, Hidden units: 5, Iterations: 1 
+Validation error: 0.174, 0.178, 0.140, 0.140, 0.137, 0.176, 0.127, 0.204, 0.198, 0.131, 
+Layers: 3, Hidden units: 5, Iterations: 15 
+Validation error: 0.121, 0.085, 0.103, 0.076, 0.085, 0.096, 0.100, 0.132, 0.127, 0.089, 
+Layers: 3, Hidden units: 5, Iterations: 25 
+Validation error: 0.109, 0.081, 0.091, 0.083, 0.097, 0.085, 0.117, 0.109, 0.088, 0.104, 
+Layers: 3, Hidden units: 8, Iterations: 1 
+Validation error: 0.111, 0.128, 0.101, 0.104, 0.151, 0.124, 0.140, 0.143, 0.109, 0.108, 
+Layers: 3, Hidden units: 8, Iterations: 15 
+Validation error: 0.101, 0.077, 0.065, 0.057, 0.067, 0.063, 0.077, 0.087, 0.065, 0.067, 
+Layers: 3, Hidden units: 8, Iterations: 25 
+Validation error: 0.083, 0.069, 0.067, 0.051, 0.067, 0.072, 0.083, 0.088, 0.060, 0.057, 
+Layers: 5, Hidden units: 3, Iterations: 1 
+Validation error: 0.896, 0.915, 0.899, 0.901, 0.896, 0.911, 0.916, 0.907, 0.903, 0.875, 
+Layers: 5, Hidden units: 3, Iterations: 15 
+Validation error: 0.896, 0.915, 0.899, 0.554, 0.807, 0.538, 0.916, 0.585, 0.656, 0.603, 
+Layers: 5, Hidden units: 3, Iterations: 25 
+Validation error: 0.497, 0.618, 0.539, 0.537, 0.492, 0.574, 0.573, 0.512, 0.545, 0.457, 
+Layers: 5, Hidden units: 5, Iterations: 1 
+Validation error: 0.896, 0.915, 0.899, 0.901, 0.896, 0.911, 0.916, 0.907, 0.903, 0.875, 
+Layers: 5, Hidden units: 5, Iterations: 15 
+Validation error: 0.291, 0.348, 0.271, 0.413, 0.384, 0.320, 0.272, 0.409, 0.422, 0.396, 
+Layers: 5, Hidden units: 5, Iterations: 25 
+Validation error: 0.199, 0.212, 0.221, 0.356, 0.195, 0.206, 0.230, 0.244, 0.151, 0.248, 
+Layers: 5, Hidden units: 8, Iterations: 1 
+Validation error: 0.896, 0.915, 0.899, 0.901, 0.896, 0.911, 0.916, 0.907, 0.903, 0.875, 
+Layers: 5, Hidden units: 8, Iterations: 15 
+Validation error: 0.240, 0.183, 0.221, 0.135, 0.112, 0.307, 0.182, 0.239, 0.179, 0.125, 
+Layers: 5, Hidden units: 8, Iterations: 25 
+Validation error: 0.080, 0.084, 0.063, 0.077, 0.143, 0.158, 0.136, 0.111, 0.089, 0.084, 
+Layers: 8, Hidden units: 3, Iterations: 1 
+Validation error: 0.896, 0.915, 0.899, 0.901, 0.896, 0.911, 0.916, 0.907, 0.903, 0.875, 
+Layers: 8, Hidden units: 3, Iterations: 15 
+Validation error: 0.896, 0.915, 0.899, 0.901, 0.896, 0.911, 0.916, 0.907, 0.903, 0.875, 
+Layers: 8, Hidden units: 3, Iterations: 25 
+Validation error: 0.896, 0.915, 0.899, 0.901, 0.896, 0.911, 0.916, 0.907, 0.903, 0.875, 
+Layers: 8, Hidden units: 5, Iterations: 1 
+Validation error: 0.896, 0.915, 0.899, 0.901, 0.896, 0.911, 0.916, 0.907, 0.903, 0.875, 
